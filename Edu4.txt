@@ -1,7 +1,12 @@
 First branch First text example
 <<<<<<< HEAD
 Modified in firstbranch
+<<<<<<< HEAD
 =======
 Modified in firstbranch
 hiiiiiiiii
+>>>>>>> firstbranch
+=======
+hiiiiiiiii
+hellloooo
 >>>>>>> firstbranch
