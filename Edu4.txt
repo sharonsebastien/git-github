@@ -1,2 +1,7 @@
 First branch First text example
+<<<<<<< HEAD
 Modified in firstbranch
+=======
+Modified in firstbranch
+hiiiiiiiii
+>>>>>>> firstbranch
